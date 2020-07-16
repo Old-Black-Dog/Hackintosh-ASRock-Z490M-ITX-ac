@@ -15,3 +15,6 @@ Sometimes
 What doesn't yet
 - Ethernet (2.5Gb)
 
+Bios
+----
+All images, (todo:markup relevant changes) [Bios Images](./Images/Bios/ASRockz490mitxac_bios_ 2020-07-17 08.28.20.pdf)
