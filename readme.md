@@ -17,4 +17,4 @@ What doesn't yet
 
 Bios
 ----
-All images, (todo:markup relevant changes) [Bios Images](./Images/Bios/ASRockz490mitxac_bios_ 2020-07-17 08.28.20.pdf)
+All images (todo:markup relevant changes) [Bios Images](https://github.com/Old-Black-Dog/Hackintosh-ASRock-Z490M-ITX-ac/blob/master/Images/Bios/ASRockz490mitxac_bios_%202020-07-17%2008.28.20.pdf)
