@@ -15,9 +15,9 @@ Mostly
 What doesn't yet
 - Ethernet (2.5Gb)
 
-21-jul-2020 - now using OpenCanopy
-21-jul-2020 - cleaned up kexts, the unused ones now removed
-21-jul-2020 - redid the portmapping through hackintool (kext is now USBPorts.kext)
+-21-jul-2020 - now using OpenCanopy
+-21-jul-2020 - cleaned up kexts, the unused ones now removed
+-21-jul-2020 - redid the portmapping through hackintool (kext is now USBPorts.kext)
 
 Bios
 ----
