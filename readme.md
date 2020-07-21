@@ -9,11 +9,15 @@ What Works:
 - Sound - Headphones (front), Internal Speaker (rear), Microphone (rear)  (via FakePCIID patch kext).
 - CPU/GPU identified correctly in System Properties
 
-Sometimes
-- Bluetooth - (from stock intel ax200 m.2) 
+Mostly
+- Bluetooth - (from stock intel ax200 m.2) **21-jul-2020 now uisng OpenIntelWireless for the bluetooth much more stable**
 
 What doesn't yet
 - Ethernet (2.5Gb)
+
+21-jul-2020 - now using OpenCanopy
+21-jul-2020 - cleaned up kexts, the unused ones now removed
+21-jul-2020 - redid the portmapping through hackintool (kext is now USBPorts.kext)
 
 Bios
 ----
